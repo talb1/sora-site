@@ -546,7 +546,7 @@ footer {
     <section class="downloadHero wrap">
       <div class="tag" aria-hidden="true">macOS · Free · No account needed</div>
       <h1>Download <em>Sora.</em></h1>
-      <p class="sub">Native, fast, and free. No sign-up, no subscription — just a browser built for macOS.</p>
+      <p class="sub">Native, fast, and free. A browser built for macOS.</p>
       <div class="cta">
         <a class="btn primary large" href="Sora.dmg" download>↓ &nbsp;Download for macOS</a>
       </div>
